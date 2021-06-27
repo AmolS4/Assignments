@@ -1,0 +1,7 @@
+C:\IMPACT_DOTNET\GenericEMP\FrmwrkUserStory\bin\Debug\FrmwrkUserStory.exe.config
+C:\IMPACT_DOTNET\GenericEMP\FrmwrkUserStory\bin\Debug\FrmwrkUserStory.exe
+C:\IMPACT_DOTNET\GenericEMP\FrmwrkUserStory\bin\Debug\FrmwrkUserStory.pdb
+C:\IMPACT_DOTNET\GenericEMP\FrmwrkUserStory\obj\Debug\FrmwrkUserStory.csprojAssemblyReference.cache
+C:\IMPACT_DOTNET\GenericEMP\FrmwrkUserStory\obj\Debug\FrmwrkUserStory.csproj.CoreCompileInputs.cache
+C:\IMPACT_DOTNET\GenericEMP\FrmwrkUserStory\obj\Debug\FrmwrkUserStory.exe
+C:\IMPACT_DOTNET\GenericEMP\FrmwrkUserStory\obj\Debug\FrmwrkUserStory.pdb

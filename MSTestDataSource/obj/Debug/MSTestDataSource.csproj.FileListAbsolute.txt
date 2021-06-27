@@ -1,0 +1,6 @@
+C:\IMPACT_DOTNET\GenericEMP\MSTestDataSource\bin\Debug\MSTestDataSource.dll
+C:\IMPACT_DOTNET\GenericEMP\MSTestDataSource\bin\Debug\MSTestDataSource.pdb
+C:\IMPACT_DOTNET\GenericEMP\MSTestDataSource\obj\Debug\MSTestDataSource.csprojAssemblyReference.cache
+C:\IMPACT_DOTNET\GenericEMP\MSTestDataSource\obj\Debug\MSTestDataSource.csproj.CoreCompileInputs.cache
+C:\IMPACT_DOTNET\GenericEMP\MSTestDataSource\obj\Debug\MSTestDataSource.dll
+C:\IMPACT_DOTNET\GenericEMP\MSTestDataSource\obj\Debug\MSTestDataSource.pdb

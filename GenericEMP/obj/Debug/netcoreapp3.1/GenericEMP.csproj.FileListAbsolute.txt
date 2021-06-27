@@ -1,0 +1,13 @@
+C:\IMPACT_DOTNET\GenericEMP\GenericEMP\bin\Debug\netcoreapp3.1\GenericEMP.exe
+C:\IMPACT_DOTNET\GenericEMP\GenericEMP\bin\Debug\netcoreapp3.1\GenericEMP.deps.json
+C:\IMPACT_DOTNET\GenericEMP\GenericEMP\bin\Debug\netcoreapp3.1\GenericEMP.runtimeconfig.json
+C:\IMPACT_DOTNET\GenericEMP\GenericEMP\bin\Debug\netcoreapp3.1\GenericEMP.runtimeconfig.dev.json
+C:\IMPACT_DOTNET\GenericEMP\GenericEMP\bin\Debug\netcoreapp3.1\GenericEMP.dll
+C:\IMPACT_DOTNET\GenericEMP\GenericEMP\bin\Debug\netcoreapp3.1\GenericEMP.pdb
+C:\IMPACT_DOTNET\GenericEMP\GenericEMP\obj\Debug\netcoreapp3.1\GenericEMP.csprojAssemblyReference.cache
+C:\IMPACT_DOTNET\GenericEMP\GenericEMP\obj\Debug\netcoreapp3.1\GenericEMP.AssemblyInfoInputs.cache
+C:\IMPACT_DOTNET\GenericEMP\GenericEMP\obj\Debug\netcoreapp3.1\GenericEMP.AssemblyInfo.cs
+C:\IMPACT_DOTNET\GenericEMP\GenericEMP\obj\Debug\netcoreapp3.1\GenericEMP.csproj.CoreCompileInputs.cache
+C:\IMPACT_DOTNET\GenericEMP\GenericEMP\obj\Debug\netcoreapp3.1\GenericEMP.dll
+C:\IMPACT_DOTNET\GenericEMP\GenericEMP\obj\Debug\netcoreapp3.1\GenericEMP.pdb
+C:\IMPACT_DOTNET\GenericEMP\GenericEMP\obj\Debug\netcoreapp3.1\GenericEMP.genruntimeconfig.cache

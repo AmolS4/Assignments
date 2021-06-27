@@ -1,0 +1,13 @@
+C:\IMPACT_DOTNET\GenericEMP\ThreadingAssignment\bin\Debug\netcoreapp3.1\ThreadingAssignment.exe
+C:\IMPACT_DOTNET\GenericEMP\ThreadingAssignment\bin\Debug\netcoreapp3.1\ThreadingAssignment.deps.json
+C:\IMPACT_DOTNET\GenericEMP\ThreadingAssignment\bin\Debug\netcoreapp3.1\ThreadingAssignment.runtimeconfig.json
+C:\IMPACT_DOTNET\GenericEMP\ThreadingAssignment\bin\Debug\netcoreapp3.1\ThreadingAssignment.runtimeconfig.dev.json
+C:\IMPACT_DOTNET\GenericEMP\ThreadingAssignment\bin\Debug\netcoreapp3.1\ThreadingAssignment.dll
+C:\IMPACT_DOTNET\GenericEMP\ThreadingAssignment\bin\Debug\netcoreapp3.1\ThreadingAssignment.pdb
+C:\IMPACT_DOTNET\GenericEMP\ThreadingAssignment\obj\Debug\netcoreapp3.1\ThreadingAssignment.csprojAssemblyReference.cache
+C:\IMPACT_DOTNET\GenericEMP\ThreadingAssignment\obj\Debug\netcoreapp3.1\ThreadingAssignment.AssemblyInfoInputs.cache
+C:\IMPACT_DOTNET\GenericEMP\ThreadingAssignment\obj\Debug\netcoreapp3.1\ThreadingAssignment.AssemblyInfo.cs
+C:\IMPACT_DOTNET\GenericEMP\ThreadingAssignment\obj\Debug\netcoreapp3.1\ThreadingAssignment.csproj.CoreCompileInputs.cache
+C:\IMPACT_DOTNET\GenericEMP\ThreadingAssignment\obj\Debug\netcoreapp3.1\ThreadingAssignment.dll
+C:\IMPACT_DOTNET\GenericEMP\ThreadingAssignment\obj\Debug\netcoreapp3.1\ThreadingAssignment.pdb
+C:\IMPACT_DOTNET\GenericEMP\ThreadingAssignment\obj\Debug\netcoreapp3.1\ThreadingAssignment.genruntimeconfig.cache
